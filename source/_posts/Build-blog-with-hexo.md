@@ -97,7 +97,7 @@ deploy:
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
 
 ```
-仓库的地址repo属性最好配置成git@github.com的格式，若使用https格式在提交部署时总会提示输入用户名及密码。
+仓库的地址repo属性最好配置成ssh的格式，若使用https格式在提交部署时总会提示输入用户名及密码。
 
 # 部署博客到Github
 部署项目到github上需要安装hexo-deployer-git模块。
