@@ -2,6 +2,9 @@
 title: "使用hexo快速搭建个人博客"
 date: 2018-02-22 10:45:11
 tags:
+  - tool
+categories:
+  - 生活
 ---
 
 # 前言

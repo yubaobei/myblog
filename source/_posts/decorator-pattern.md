@@ -4,6 +4,8 @@ date: 2019-03-18 21:00:35
 tags:
   - decorator
   - 设计模式
+categories:
+  - 设计模式
 ---
 
 # 介绍
